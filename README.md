@@ -68,9 +68,8 @@ Technologies Used
 Credits
 
 This project was developed by:
-	•	Naimul Hasib Ratul (ID: 2422069642)
-	•	Md Aowlad Hussain (ID: 2422785642)
-	•	Mohammad Rizwanul Hasan (ID: 2422930042)
+	•	Naimul Hasib Ratul 
+ 	•	Sourov Kumar Saha Shety
 
 Future Improvements
 	1.	Enhanced Security: Encrypt voter and candidate data.
